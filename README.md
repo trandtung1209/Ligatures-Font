@@ -1,2 +1,3 @@
-# Ligatures-Font
+# Ligatures Font
+
 Monospaced font with programming ligatures
